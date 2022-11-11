@@ -1,5 +1,5 @@
 from abc import ABC,abstractclassmethod
-from FIleName import IFileName
+from SW_Execution.FIleName import IFileName
 
 class ISWoperation(ABC):
     @abstractclassmethod

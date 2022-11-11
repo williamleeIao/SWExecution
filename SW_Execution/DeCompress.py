@@ -1,5 +1,5 @@
-from SWOperation  import ISWoperation
-from FIleName import IFileName
+from SW_Execution.SWOperation  import ISWoperation
+from SW_Execution.FIleName import IFileName
 import subprocess
 
 class TDR(ISWoperation):
